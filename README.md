@@ -65,9 +65,7 @@ and 1500 random instances checked against an exhaustive brute force.
 
 ## Report
 
-The LaTeX source of the project report is in `report/report.tex`
-(a compiled `report/report.pdf` is included). To rebuild it:
-
+reportpdf.pdf
 ```bash
 cd report && pdflatex report.tex && pdflatex report.tex
 ```
