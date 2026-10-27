@@ -72,7 +72,7 @@ The LaTeX source of the project report is in `report/report.tex`
 cd report && pdflatex report.tex && pdflatex report.tex
 ```
 
-Before submitting, edit the author line and the GitHub link in `report.tex`.
+
 
 ## Layout
 
